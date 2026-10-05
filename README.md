@@ -7,7 +7,7 @@
 1. Скачать файл или открыть его удобным для вас способом
 2. Нажать Ctrl+A что бы выделить все буквы
 3. Нажать Ctrl+X или Ctrl+C
-4. Зайти в WoW и открыть Аддон Details который адаптирован под Сирус скачать его можно тут "[https://github.com/fxpw/Details_Sirus](http://github.com/fxpw/Details_Sirus/releases)"
+4. Зайти в WoW и открыть Аддон Details который адаптирован под Сирус скачать его можно тут "[fxpw/Details_Sirus](http://github.com/fxpw/Details_Sirus/releases)"
 5. Найти раздел "Профили" в настройках и нажать кнопку "Импорт профиля"
 6. Нажать Ctrl+V
 7. Переместить Details в нужное место
